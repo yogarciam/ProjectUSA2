@@ -46,3 +46,4 @@ if __name__ == "__main__":
     
     # Stop Data Acquisition
     daq_system.stop_acquisition()
+print(daq_system)
